@@ -18,4 +18,4 @@
   </tr>
 </table>
 
-The Client project is a .NET Core Client-side Blazor single-page application.  Blazor is a web UI framework that takes advantage of WebAssembly to allow .NET Core libraries to be loaded and executed on the client machine.
+The Client project is a .NET Core Client-side Blazor single-page application.  Blazor is a web UI framework that takes advantage of WebAssembly to allow .NET Core libraries to be loaded and executed on the client machine.  All data interactions *must* use the SAMMI web API exposed by the [Server](..\SAMMI.Server) project.
